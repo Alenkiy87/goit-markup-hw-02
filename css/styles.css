@@ -46,7 +46,7 @@ address {
   text-transform: uppercase;
 }
 
-.logo-header span {
+.logo-header .studio {
   color: #2e2f42;
 }
 .header-link {
@@ -175,7 +175,7 @@ address {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.logo-footer span {
+.logo-footer .studio {
   color: #f4f4fd;
 }
 .footer-text {
@@ -190,12 +190,16 @@ address {
   color: var(--iris);
   background-color: var(--cloud);
   letter-spacing: 0.04em;
+  font-family: var(--primary-font);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 .portfolio-item.btn:hover,
 .portfolio-item.btn:focus {
-  background-color: var(--iris);
-  color: #fff;
+  background-color: var(--ocean);
+  color: #ffffff;
 }
 
 .portfolio-subtitle {
