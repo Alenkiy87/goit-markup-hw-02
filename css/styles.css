@@ -100,14 +100,6 @@ address {
 }
 /**----------------------------SECTION 1--------------------------*/
 
-.advantages {
-}
-.advantages-list {
-}
-.list {
-}
-.advantages-item {
-}
 .advantages-subtitle {
   color: var(--navyblue, #2e2f42);
   font-size: 20px;
@@ -132,14 +124,9 @@ address {
   letter-spacing: 0.02rem;
   text-transform: capitalize;
 }
-.service-list {
-}
-.service-item {
-}
+
 /*?----------------------------SECTION 3--------------------------*/
 
-.team {
-}
 .team-title {
   color: var(--navyblue, #2e2f42);
   text-align: center;
@@ -149,10 +136,7 @@ address {
   letter-spacing: 0.02;
   text-transform: capitalize;
 }
-.team-list {
-}
-.team-item {
-}
+
 .team-name {
   color: var(--navyblue, #2e2f42);
   text-align: center;
