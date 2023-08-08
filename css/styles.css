@@ -188,6 +188,7 @@ address {
 
 .portfolio-item.btn {
   color: var(--iris);
+  background-color: var(--cloud);
   letter-spacing: 0.04em;
 }
 
